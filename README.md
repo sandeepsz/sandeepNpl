@@ -5,13 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepnpl&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepnpl" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sandeep9090" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep9090?logo=twitter&style=for-the-badge" alt="sandeep9090" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend**
 
 - 🌱 I’m currently learning **JavaScript,React**
-
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **sandeep47nepali@gmail.com**
 
