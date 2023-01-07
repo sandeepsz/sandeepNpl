@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **JavaScript,React**
+- 🌱 I’m currently learning **JavaScript,MERN stack**
 
 - 📫 How to reach me **sandeep47nepali@gmail.com**
 
