@@ -13,6 +13,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sandeepnpl&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues" alt="sandeepnpl" /> </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepnpl&layout=compact" alt="sandeepnpl" /> </p>
+<p align="left"> <img src="https://wakatime.com/goals" alt="sandeepnpl" /> </p>
 
 
 
